@@ -57,7 +57,7 @@ ROOT_URLCONF = 'ecom.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\ASUS\PycharmProjects\ECOMMERCE\templates'],
+        'DIRS': [r'C:\Users\ASUS\PycharmProjects\ECOMMERCE\ecom\catalog\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
